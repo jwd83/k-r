@@ -45,7 +45,7 @@ int main()
     {
         if (length_count[i] == 0)
             continue;
-        printf("%d: ", i);
+        printf("%4d: ", i);
         for (int j = 0; j < length_count[i]; ++j)
         {
             printf("*");
