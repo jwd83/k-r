@@ -2,7 +2,7 @@
 
 #define OUT 0
 #define IN 1
-#define MAX_WORD_LENGTH 20
+#define MAX_WORD_LENGTH 255
 #define NOT_A_TERMINATOR 0
 #define IS_A_TERMINATOR 1
 
